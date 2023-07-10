@@ -379,11 +379,7 @@ opacity: 0.9;
     class="logo" src="https://i.ibb.co/WK9hkx8/Garcia-Tavern-logos-transparent.png" id="introLogo" width="200" height="200" />
     </div>
         <!-- subject-->
-<<<<<<< HEAD
- 	    <div class='IntroMsg'>
-=======
         <div class='IntroMsg'>
->>>>>>> feature
         <h1> Stunning food, Amazing Quaility, Excellent  </h1>
     </br>
         <span>
