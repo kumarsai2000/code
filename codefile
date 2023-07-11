@@ -298,7 +298,7 @@ opacity: 0.9;
     padding-right: 15px;
 }
 
-.Price {
+.Price {yutyin6u6tyu
     float: right;
     color: #555;
     font-weight: bold;
