@@ -13,9 +13,9 @@
 */
 root {
 
-    --font: slategrey;
+    --font: slategrey; gfbhgfbhn 
     --background: wheat;
-    --menuColor: slategrey;
+    --menuColor: slategrey;ggrgrg
 }
 
 
