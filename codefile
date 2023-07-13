@@ -8,7 +8,7 @@
 /*------------------------------------------------------------------
     style template for mexican resturant 
     
-    author: cryptograghi etrgrtrtr
+    author: cryptograghi etrgrtrtr  thth
 
 */
 root {
@@ -26,7 +26,7 @@ body {
     background-repeat: no-repeat;
     background-size: cover;
     color: white;
-    background-color: wheat;
+    background-color: wheat; tutyuty
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
